@@ -5,6 +5,7 @@ import Important from './pages/Important';
 import Search from './pages/Search';
 import UnscheduledTasks from './pages/UnscheduledTasks';
 import Home from './pages/Home';
+import './index.scss';
 
 function App() {
   return (
